@@ -1,4 +1,4 @@
-# subsplash-webview-exclude
+# subsplash-webview-control
 Logic to help control content or functionaly in a Subsplash app's webview
 
 ```php
