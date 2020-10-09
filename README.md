@@ -1,5 +1,5 @@
 # subsplash-webview-control
-Logic to help control content or functionaly in a Subsplash app's webview
+Logic to help control content or functionality in a Subsplash app's webview
 
 ```php
 <?php
